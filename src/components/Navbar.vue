@@ -11,7 +11,6 @@
     </div>
 </template>
 
-
 <style>
     h1{
         color: red;
